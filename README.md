@@ -23,6 +23,7 @@ Day 5/ → Creating & Editing Files
 ---
 
 ##  Learning Goals By the end of this challenge, I will: 
+
 -✅ Be confident using **Linux CLI** for daily tasks 
 -✅ Understand file systems, users, groups, and permissions
 -✅ Manage packages and software installations 
