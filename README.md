@@ -12,13 +12,14 @@ Each day, I focus on one concept, take notes, practice commands, and share scree
 ## 📂 Repository Structure Each folder represents a day in the challenge and contains: 
 - 📝 **Markdown notes** (commands, explanations, and examples)
 - 📸 **Screenshots** from my terminal practice
--  Example: 
+-  Example:
+```
 Day 1/ → Introduction to Linux 
 Day 2/ → Basic Navigation 
 Day 3/ → File Structure
 Day 4/ → Viewing Files
 Day 5/ → Creating & Editing Files
-...
+```
 
 ---
 
